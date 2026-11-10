@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.pem
+*.key
+*.p8
+*.p12
+*.jks
+*.keystore
+app.json
+.env
+.env.*
+.venv/
